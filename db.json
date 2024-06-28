@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "caption": "Ballaatha jaathi",
+      "image": "https://c.saavncdn.com/783/Ballaatha-Jaathi-Malayalam-2024-20240322143350-500x500.jpg",
+      "url": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "id": 1
+    },
+    {
+      "caption": "Katchi sera",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfPqcQCGVxpraBLmC2NrL2nm7zL6Xp7rvuA&s",
+      "url": "https://www.youtube.com/embed/VU23OPQ1Pmc",
+      "id": 2
+    },
+    {
+      "caption": "Husn",
+      "image": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-500x500.jpg",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "id": 3
+    },
+    {
+      "caption": "Galliyan",
+      "image": "https://c.saavncdn.com/863/Ek-Villain-Hindi-2014-500x500.jpg",
+      "url": "https://www.youtube.com/embed/iGZYgHA1a1s",
+      "id": 5
+    },
+    {
+      "caption": "Munbe vaa",
+      "image": "https://i.pinimg.com/originals/c6/4f/57/c64f578e1484463a6a8fd6d8cff55af7.jpg",
+      "url": "https://www.youtube.com/embed/UPQZ4vuvW2s",
+      "id": 7
+    },
+    {
+      "caption": "Perfect",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGU5YTRjMTUtZDU4Mi00NjFlLWExYTAtMjVkN2JmOTE1Y2Q2XkEyXkFqcGdeQXVyNjE0ODc0MDc@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/2Vv-BfVoq4g",
+      "id": 8
+    },
+    {
+      "caption": "Queencard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382dd2427e6d302711b1b9616",
+      "url": "https://www.youtube.com/embed/7HDeem-JaSY",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Malayalam Songs",
+      "allVideo": [
+        {
+          "caption": "Ballaatha jaathi",
+          "image": "https://c.saavncdn.com/783/Ballaatha-Jaathi-Malayalam-2024-20240322143350-500x500.jpg",
+          "url": "https://www.youtube.com/embed/rhrD7as3KJg",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Tamil Songs",
+      "allVideo": [
+        {
+          "caption": "Katchi sera",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfPqcQCGVxpraBLmC2NrL2nm7zL6Xp7rvuA&s",
+          "url": "https://www.youtube.com/embed/VU23OPQ1Pmc",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "Hindi songs",
+      "allVideo": [
+        {
+          "caption": "Galliyan",
+          "image": "https://c.saavncdn.com/863/Ek-Villain-Hindi-2014-500x500.jpg",
+          "url": "https://www.youtube.com/embed/iGZYgHA1a1s",
+          "id": 5
+        },
+        {
+          "caption": "Husn",
+          "image": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-500x500.jpg",
+          "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+          "id": 3
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Husn",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timestamp": "23/06/2024, 11:19:15",
+      "id": 1
+    },
+    {
+      "caption": "Ballaatha jaathi",
+      "url": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "timestamp": "24/06/2024, 09:52:02",
+      "id": 2
+    },
+    {
+      "caption": "Pano",
+      "url": "https://www.youtube.com/embed/xizg1-0JmiA",
+      "timestamp": "25/06/2024, 21:37:50",
+      "id": 3
+    }
+  ]
+}
